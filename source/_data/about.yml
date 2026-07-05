@@ -1,0 +1,105 @@
+- class_name: 关于页
+  subtitle: ✨ 前方浩瀚 万物可期 ✨
+  avatarImg: https://image.fmboy.com/file/avatar/1781959592318_IMG_20241029_234015.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: 肥猫BOY
+  description: 欢迎来到，我的的个人博客。我是一名 前端工程师、学生、独立开发者、博主。
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello World
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    # list:
+    #   - desc: EDU,软件工程专业
+    #     color: "#357ef5"
+    img: https://image.fmboy.com/file/壁纸/1781976740763_Iron_Man.jpg
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: IP：
+    StrengthenTitle: 美国 加利福尼亚州
+    background: https://image.fmboy.com/file/IP/IP-37.339389_-121.895000.webp
+    backgroundDark: https://image.fmboy.com/file/IP/IP-37.339389_-121.895000.webp
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 专业
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 职业
+    selfInfoContent3: 学生
+  personalities:
+    author_name: 主人公
+    personality_type: ENFJ-A
+    photo_url: https://image.fmboy.com/file/壁纸/1783267660053_user001.jpg
+    personality_img: https://image.fmboy.com/file/svg/MBTI/enfj-protagonist-male.svg
+    name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 生活明朗，
+    maxim_bottom: 万物可爱。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 现在玩的游戏
+    game_title: 无畏契约
+    game_uid: "游戏ID: 翻斗花园骚猫#30421"
+    game_bg: https://image.fmboy.com/file/壁纸/1783264707040_无畏契约.webp
+  comic:
+    comic_tips: 喜欢的电影
+    comic_title: 电影
+    comic_list:
+      - name: 钢铁侠
+        href: https://v.gsuus.com/play/Pe916xeL/index.m3u8
+        cover: https://nnyy.in/nnimg/20085234.jpg
+      - name: 分手清单
+        href: https://sszzyy.com/index.php/vod/play/id/7142/sid/1/nid/1.html
+        cover: https://m.ykimg.com/050E00006899C790711E4F179A6DD9DE
+      - name: 7天
+        href: https://sszzyy.com/index.php/vod/play/id/5597/sid/1/nid/1.html
+        cover: https://m.ykimg.com/050E000068D65DED13EFA312E216C513
+      - name: 大黄蜂
+        href: https://sszzyy.com/index.php/vod/play/id/3387/sid/1/nid/1.html
+        cover: https://3img.hitv.com/preview/internettv/sp_images/ott/2019/1/22/dianying/324603/20190122100327685-new.jpg
+      - name: 春娇与志明
+        href: https://v4.yuglf.com/202504/27/KrjLmsMjd321/video/index.m3u8
+        cover: https://nnyy.in/nnimg/20129433.jpg
+  like:
+    like_tips: 我的兴趣爱好
+    like_title: 科技技术
+    like_bg: https://image.fmboy.com/file/壁纸/1783235108494_FM_Hacker.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 最喜欢的歌
+    music_title: 春娇与志明
+    music_bg: https://image.fmboy.com/file/壁纸/欧阳耀莹002.webp
+    music_link: /music
+  reward_list:
+    # - name: 肥猫BOY
+    #   amount: 99
+    #   datatime: 2024-01-01
+    #   suffix: 元
