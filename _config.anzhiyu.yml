@@ -76,7 +76,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
+  statusImg: https://image.fmboy.com/file/svg/MBTI/enfj-protagonist-male.svg
   skills:
     - 🤖️ 数码科技爱好者
     - 🔍 分享与热心帮助
@@ -138,7 +138,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: https://image.fmboy.com/file/avatar/1781956182947_V.jpg
 
 # Avatar (头像)
 avatar:
@@ -202,7 +202,7 @@ mainTone:
 
 # wordcount (字数统计)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -1107,7 +1107,7 @@ LA:
 
 # 标签卖萌
 diytitle:
-  enable: true
+  enable: false
   leaveTitle: w(ﾟДﾟ)w 不要走！再看看嘛！
   backTitle: ♪(^∇^*)欢迎肥来！
 

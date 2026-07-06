@@ -7,8 +7,6 @@ $ git commit -m "我的博客"
 $ git push github main
 ```
 
-
-
 ```bash
 # 清理缓存
 $ hexo cl
@@ -18,4 +16,3 @@ $ hexo s
 # 生成静态文件
 $ hexo g
 ```
-
