@@ -2,15 +2,43 @@
   {
     "name": "春娇与志明",
     "artist": "街道办GDC、欧阳耀莹",
-    "url": "/music/a/春娇与志明 - 街道办GDC、欧阳耀莹.flac",
-    "cover": "/music/a/春娇与志明 - 街道办GDC、欧阳耀莹.jpg",
-    "lrc": "/music/a/春娇与志明 - 街道办GDC、欧阳耀莹.lrc"
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 - 街道办GDC、欧阳耀莹.flac",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 - 街道办GDC、欧阳耀莹.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 - 街道办GDC、欧阳耀莹.lrc"
+  },
+  {
+    "name": "春娇与志明 (DJ版)",
+    "artist": "欧阳耀莹、街道办GDC",
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC.flac",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC.lrc"
   },
   {
     "name": "戒不掉+春娇与志明 (DJ版)",
     "artist": "欧阳耀莹、街道办GDC、DJ Wave",
-    "url": "/music/a/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.mp3",
-    "cover": "/music/a/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.jpg",
-    "lrc": "/music/a/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.lrc"
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.mp3",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/戒不掉+春娇与志明 (DJ版) - 欧阳耀莹、街道办GDC、DJ Wave.lrc"
+  },
+  {
+    "name": "纸短情长",
+    "artist": "白允y",
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/纸短情长 - 白允y.mp3",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/纸短情长 - 白允y.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/纸短情长 - 白允y.lrc"
+  },
+  {
+    "name": "枫语过",
+    "artist": "格子兮、小久",
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/枫语过 - 格子兮、小久.mp3",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/枫语过 - 格子兮、小久.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/枫语过 - 格子兮、小久.lrc"
+  },
+  {
+    "name": "真的爱你",
+    "artist": "小贱、星弟",
+    "url": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/真的爱你 - 小贱、星弟.mp3",
+    "cover": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/真的爱你 - 小贱、星弟.jpg",
+    "lrc": "https://cdn.jsdelivr.net/npm/fmboy-music@0.0.1/真的爱你 - 小贱、星弟.lrc"
   }
 ]
