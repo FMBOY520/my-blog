@@ -4,8 +4,11 @@ menu:
     全部文章: /archives || anzhiyu-icon-box-archive
     分类列表: /categories || anzhiyu-icon-shapes
     标签列表: /tags || anzhiyu-icon-tags
+  工具:
+    上网工具: /tools/web-tools || anzhiyu-icon-rocket
   我的:
     音乐馆: /music/ || anzhiyu-icon-music
+    Telegram交流群: https://t.me/FMBOY_TG || anzhiyu-icon-paper-plane
   关于: /about
 
 # 导航相关配置
@@ -48,7 +51,6 @@ mourn:
 
 # Code Blocks (代码相关)
 # --------------------------------------
-
 highlight_theme: pale night # darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
@@ -70,7 +72,7 @@ copy:
 #   name: link || icon
 social:
   Github: https://github.com/FMBOY520 || anzhiyu-icon-github
-  BiliBili: https://space.bilibili.com/3546629109975913 || anzhiyu-icon-bilibili
+  # BiliBili: https://space.bilibili.com/3546629109975913 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
 author_status:
@@ -138,7 +140,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://image.fmboy.com/file/avatar/1781956182947_V.jpg
+favicon: https://image.fmboy.com/file/avatar/1781959592318_IMG_20241029_234015.jpg
 
 # Avatar (头像)
 avatar:
@@ -429,7 +431,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text: ---------- 嘿嘿 ----------
+  custom_text:
   runtime:
     enable: false
     launch_time: 01/01/2024 00:00:00 # 网站上线时间
@@ -458,7 +460,7 @@ footer:
       #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
       #   message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
-    enable: true
+    enable: false
     centerImg:
     left:
       - title: email
@@ -523,7 +525,7 @@ footer:
       #     - title: 版权协议
       #       link: /copyright/
   footerBar:
-    enable: true
+    enable: false
     authorLink: /
     cc:
       enable: false
@@ -780,7 +782,7 @@ subtitle:
   sub:
     # - 生活明朗&#44;万物可爱&#44;人间值得&#44;未来可期.
 
-# Loading Animation (加载动画)
+# ---------- ---------- 加载动画 ---------- ----------
 preloader:
   enable: true
   # source
@@ -790,7 +792,8 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://image.fmboy.com/file/avatar/1781956182947_V.jpg # 自定加载动画义头像
+  avatar: https://image.fmboy.com/file/avatar/1781959592318_IMG_20241029_234015.jpg # 自定加载动画义头像
+# ---------- ---------- 加载动画 ---------- ----------
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1223,7 +1226,7 @@ rightClickMenu:
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: true
+  enable: false
   img: https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png
 
 # 动效

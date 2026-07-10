@@ -3,15 +3,11 @@
   avatarImg: https://image.fmboy.com/file/avatar/1781959592318_IMG_20241029_234015.jpg
   avatarSkills:
     left:
-      - 🤖️ 数码科技爱好者
+      - 🤖️ 科技爱好者
       - 🔍 分享与热心帮助
-      - 🏠 智能家居小能手
-      - 🔨 设计开发一条龙
     right:
-      - 专修交互与设计 🤝
+      - 人狠话不多 💢
       - 脚踏实地行动派 🏃
-      - 团队小组发动机 🧱
-      - 壮汉人狠话不多 💢
   name: 肥猫BOY
   description: 欢迎来到，我的的个人博客。我是一名 前端工程师、学生、独立开发者、博主。
   aboutsiteTips:
@@ -30,10 +26,14 @@
   careers:
     tips: 生涯
     title: 无限进步
-    # list:
-    #   - desc: EDU,软件工程专业
-    #     color: "#357ef5"
-    img: https://image.fmboy.com/file/壁纸/1781976740763_Iron_Man.jpg
+    list:
+      - desc: 无限进步
+        color: "#eeeeee"
+      - desc: 无限进步
+        color: "#eeeeee"
+      - desc: 无限进步
+        color: "#eeeeee"
+    img: https://image.fmboy.com/file/壁纸/1783670074578_4K-宇宙-引力-星云.png
   statistic:
     link: /archives
     text: 文章隧道
@@ -58,24 +58,24 @@
     name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭
-    maxim_top: 生活明朗，
-    maxim_bottom: 万物可爱。
+    maxim_top: 不惧低谷
+    maxim_bottom: 厚积方能破局
   buff:
     buff_tips: 特长
-    buff_top: 脑回路新奇的 酸菜鱼
-    buff_bottom: 二次元指数 MAX
+    buff_top: 探索新奇事物
+    buff_bottom:
   game:
     game_tips: 现在玩的游戏
     game_title: 无畏契约
     game_uid: "游戏ID: 翻斗花园骚猫#30421"
     game_bg: https://image.fmboy.com/file/壁纸/1783264707040_无畏契约.webp
   comic:
-    comic_tips: 喜欢的电影
-    comic_title: 电影
+    comic_tips: 喜欢的电影/电视剧
+    comic_title: 最近在看
     comic_list:
-      - name: 钢铁侠
-        href: https://v.gsuus.com/play/Pe916xeL/index.m3u8
-        cover: https://nnyy.in/nnimg/20085234.jpg
+      - name: 南部档案
+        href: https://www.yingswang.cn/voddetail/10092566.html
+        cover: https://cdn.unnll.cn/upload/vod/20260528-1/b09061c74a84e34fa8b7a20b1b0e97fa.jpeg
       - name: 分手清单
         href: https://sszzyy.com/index.php/vod/play/id/7142/sid/1/nid/1.html
         cover: https://m.ykimg.com/050E00006899C790711E4F179A6DD9DE
@@ -90,9 +90,9 @@
         cover: https://nnyy.in/nnimg/20129433.jpg
   like:
     like_tips: 我的兴趣爱好
-    like_title: 科技技术
-    like_bg: https://image.fmboy.com/file/壁纸/1783235108494_FM_Hacker.webp
-    like_bottom: 手机、电脑软硬件
+    like_title: 兴趣爱好👇
+    like_bg: https://image.fmboy.com/file/壁纸/1783669259578_4K-战斗机甲.png
+    like_bottom: 科技技术、音乐、风景、旅游、电影、游戏
   music:
     music_tips: 最喜欢的歌
     music_title: 春娇与志明

@@ -2,8 +2,8 @@
 title: {{ title }}      #【必需】标题
 date: {{ date }}        #【必需】创建时间
 updated: {{ date }}     #【可选】更新时间
-tags: ["t1","t2"]       #【可选】标签
-categories: ["a","b"]   #【可选】分类
+tags: [""]              #【可选】标签
+categories: [""]        #【可选】分类
 # keywords:             #【可选】文章关键字
 # description:          #【可选】文章描述
 top_img: false          #【可选】文章顶部图片
