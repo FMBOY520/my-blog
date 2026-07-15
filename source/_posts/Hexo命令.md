@@ -28,6 +28,8 @@ swiper_index:
 ```bash
 # 新建文章 source/_posts/
 hexo new "文章名字"
+# 新建文章-指定文件夹 source/_posts/test/测试文章.md
+hexo new "文章名字" -p "test/测试文章"
 # 新建页面
 hexo new page -p [页面路径] "页面标题"
 ```
