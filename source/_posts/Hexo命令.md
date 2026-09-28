@@ -30,6 +30,7 @@ swiper_index:
 hexo new "文章名字"
 # 新建文章-指定文件夹 source/_posts/test/测试文章.md
 hexo new "文章名字" -p "test/测试文章"
+hexo new "XXX基础" -p "前端笔记/XXX基础" 
 # 新建页面
 hexo new page -p [页面路径] "页面标题"
 ```
